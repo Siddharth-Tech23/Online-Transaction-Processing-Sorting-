@@ -6,7 +6,7 @@
 #include <fstream>
 
 using namespace std;
-#Transactions
+#Transaction
 struct Transaction {
     string transaction_id;
     string user_id;
