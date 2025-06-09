@@ -1,7 +1,6 @@
 # 📊 Online Transaction Processing - Sorting
 
 A practical project demonstrating how to optimize **Online Transaction Processing (OTP)** systems by maintaining a sorted list of transactions using **Insertion Sort**.
-
 ---
 
 ## 📝 Problem Statement
